@@ -1,0 +1,2 @@
+# ruztico
+Virtual Tour Ruztico
